@@ -1,0 +1,32 @@
+*{
+  margin: 0 auto;
+  padding: 0 auto;
+}
+.estilo{
+    width:100% ;
+    height: 100%;
+    position: absolute;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:large;
+    background-color: aquamarine;
+  }
+  #boton1{
+    color: black;
+    padding: 7px;
+    line-height: 2em;
+    border-radius: 1em;
+    border:1px solid;
+    position: relative;
+    margin-left: 12px;
+  }
+
+  .color{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    position: static;
+    max-width: 240px;
+  }
+  
+  
